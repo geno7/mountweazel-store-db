@@ -6,63 +6,71 @@
             "name": "Shirt",
             "image": "https://mountweazel-store.netlify.app/assets/img/shirt.png",
             "price": "5.99",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur cursus scelerisque nisl vel ultricies. Sed vitae laoreet lorem. Quisque euismod vulputate diam, et sagittis ligula mollis nec. Nullam semper eleifend diam, sed convallis urna auctor in. Aenean iaculis, metus faucibus lobortis molestie, mauris risus sodales arcu, sit amet varius diam metus in enim. Maecenas ex est, scelerisque sed metus sed, faucibus convallis dui. Cras ut luctus velit. Sed ornare odio vitae mauris luctus maximus. Proin ultricies lobortis nisi, ut dictum massa semper vel. In egestas condimentum magna, sit amet venenatis orci fermentum eu."
+            "description": "Get it quickly before cr1tikal and Andrew W.K. buy out the entire stock."
         },
         {
             "id": 2,
             "category": "apparel",
             "name": "Socks",
             "image": "https://mountweazel-store.netlify.app/assets/img/socks.png",
-            "price": "3.99"
+            "price": "3.99",
+            "description": "Every sock you buy is but a poor lost soul looking for its eventual resting place in some unreachable dark chasm behind the dryer."
         },
         {
             "id": 3,
             "category": "apparel",
             "name": "Shorts",
             "image": "https://mountweazel-store.netlify.app/assets/img/shorts.png",
-            "price": "10.99"
+            "price": "10.99",
+            "description": "A pair of pants that fell on hard times."
         },
         {
             "id": 4,
             "category": "music",
             "name": "Record A",
             "image": "https://mountweazel-store.netlify.app/assets/img/music1.png",
-            "price": "19.99"
+            "price": "19.99",
+            "description": "Get the self-titled debut album from South Florida's hottest new act, Vinyl Record PSD Mockup."
         },
         {
             "id": 5,
             "category": "music",
             "name": "Record B",
             "image": "https://mountweazel-store.netlify.app/assets/img/music2.png",
-            "price": "19.99"
+            "price": "19.99",
+            "description": "This limited edition record was custom-pressed in the shape of the lead singer's perfectly circular head."
         },
         {
             "id": 6,
             "category": "music",
             "name": "Record C",
             "image": "https://mountweazel-store.netlify.app/assets/img/music3.png",
-            "price": "19.99"
+            "price": "19.99",
+            "description": "Playing this record at 45 RPM will cause the holographic foil label to project a three-dimensional image of our refund policy."
         },
         {
             "id": 7,
             "category": "ducks",
             "name": "Green Duck",
             "image": "https://mountweazel-store.netlify.app/assets/img/duck1.png",
-            "price": "10.99"
+            "price": "10.99",
+            "description": "It's said they're good listeners when it comes to debugging."
         },
         {
             "id": 8,
             "name": "Blue Duck (rare)",
             "category": "ducks",
             "image": "https://mountweazel-store.netlify.app/assets/img/duck3.png",
-            "price": "10000.00"
+            "price": "10000.00",
+            "description": "We were only able to manufacture a very limited run of these little fellows, and we've had to sell them at an exorbitant price. This is what the blue paint shortage has done to the economy."
         },
         {
             "id": 9,
             "name": "Yellow Duck",
             "category": "ducks",
             "image": "https://mountweazel-store.netlify.app/assets/img/duck2.png",
-            "price": "10.99"
+            "price": "10.99",
+            "description": "It's hard to beat the classic yellow. Perfect for bathtime, or spilling from cargo ships in the northern Pacific and drifting in the sea for 20 years."
         }
     ]
 }
